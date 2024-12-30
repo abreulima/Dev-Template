@@ -1,6 +1,6 @@
-# SDL3-Template
+# Development Template
 
-Hello Ivan, I hope you don't need to check this page very often, but if necessary we're go.
+Hello Ivan, I hope you don't need to check this page very often, but if necessary we're go. 
 
 This is your favorite C/C++ Dev. Kit.
 
