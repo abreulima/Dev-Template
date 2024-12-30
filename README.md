@@ -10,8 +10,10 @@ Don't forget to add it to the PATH!
 
 This is how you usually compile SDL3
 
-cmake .. -G "Unix Makefiles" -DCMAKE_C_COMPILER=gcc -DCMAKE_BUILD_TYPE=Release
+cmake .. -G "Unix Makefiles" -DCMAKE_C_COMPILER=gcc -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=OFF
 make
+
+We also build Static Libraries.
 
 Also you're favorite folder structure.
 
